@@ -1,0 +1,4 @@
+com\trantor\demo\pageobject\DashboardPage.class
+com\trantor\demo\utils\PropertyFetcher.class
+com\trantor\demo\base\Base.class
+com\trantor\demo\pageobject\LoginPage.class
